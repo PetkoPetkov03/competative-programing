@@ -72,7 +72,7 @@ fn main() {
     list1.push(30);
 
     list2.push(20);
-    list2.push(15);
+    list2.push(10);
     list2.push(10);
     list2.push(20);
 
